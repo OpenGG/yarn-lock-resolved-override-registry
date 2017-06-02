@@ -1,0 +1,25 @@
+{
+  "name": "yarn-lock-resolved-override-registry",
+  "version": "1.0.0",
+  "description": "Showcase where resolved in yarn.lock overrides registry config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenGG/yarn-lock-resolved-override-registry.git"
+  },
+  "keywords": [
+    "yarn"
+  ],
+  "author": "OpenGG <liy099@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OpenGG/yarn-lock-resolved-override-registry/issues"
+  },
+  "homepage": "https://github.com/OpenGG/yarn-lock-resolved-override-registry#readme",
+  "dependencies": {
+    "lodash.isarray": "^4.0.0"
+  }
+}
